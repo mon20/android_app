@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="es">
+    <string name="app_name" translatable="false">My First Project</string>
+    <string name="titulo_app">My First Projec</string>
+    <string name="texto_boton">Entrar</string>
+    <string name="subtitulo">Bienvenido</string>
+</resources>
